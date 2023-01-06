@@ -89,3 +89,24 @@ profile_default/
 ipython_config.py
 
 Scripts\
+*.cfg
+Scripts/activate
+Scripts/activate.bat
+Scripts/activate.fish
+Scripts/activate.nu
+Scripts/activate.ps1
+Scripts/activate_this.py
+Scripts/deactivate.bat
+Scripts/deactivate.nu
+Scripts/pip-3.9.exe
+Scripts/pip.exe
+Scripts/pip3.9.exe
+Scripts/pip3.exe
+Scripts/pydoc.bat
+Scripts/python.exe
+Scripts/pythonw.exe
+Scripts/wheel-3.9.exe
+Scripts/wheel.exe
+Scripts/wheel3.9.exe
+Scripts/wheel3.exe
+.gitattributes
